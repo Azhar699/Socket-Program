@@ -1,4 +1,3 @@
-README.md (Markdown Syntax)
 # 💬 Chat Server with Message Forwarding and Bad Word Detection
 
 ## 📘 Overview
